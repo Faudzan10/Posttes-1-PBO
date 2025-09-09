@@ -26,7 +26,6 @@ Menghentikan eksekusi program.
 
 
 **Penjelasan Program**
-Penjelasan Program
 
 1.Saat dijalankan, program akan menampilkan menu utama yang berisi pilihan: Tambah Reservasi, Lihat Reservasi, Ubah Reservasi, Hapus Reservasi, dan Keluar.
 
