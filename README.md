@@ -128,3 +128,40 @@ Nama pemesan
 <img width="308" height="98" alt="image" src="https://github.com/user-attachments/assets/9876a272-f5b9-4d0c-b732-c1f8e5362d3d" />
 
 - Scanner ditutup setelah program selesai
+
+**OUTPUT**
+
+<img width="422" height="128" alt="image" src="https://github.com/user-attachments/assets/37f6a74e-f22b-4497-a223-6afa37ee7b83" />
+
+- ini adalah tampilan awal program
+- User diberi 5 menu pilihan utama :
+  - Tambah reservasi ( buat data baru )
+  - Lihat reservasi ( tampilkan semua data )
+  - Ubah reservasi ( edit data tertentu )
+  - Hapus Reservasi ( hapus data tertentu )
+  - Keluar ( akhiri program )
+
+User Pilih Menu
+
+<img width="347" height="135" alt="image" src="https://github.com/user-attachments/assets/b8000c3a-2540-42dc-9a71-ae64498ea9ba" />
+
+- User mengetik angka 1 -> berarti pilih tambah menu reservasi
+  
+- Program minta data berikut:
+
+  - Nama Pemesan → "Faudzan"
+
+  - Tanggal → "10 - 09 - 2025"
+
+  - Jam → "19:00"
+
+  - Durasi → "3" jam
+
+Hasil Setelah Data Disimpan
+
+- Artinya data sudah berhasil dimasukkan ke dalam ArrayList daftarReservasi.
+
+- Kalau nanti pilih menu Lihat Reservasi, data ini akan muncul di daftar.
+
+
+
