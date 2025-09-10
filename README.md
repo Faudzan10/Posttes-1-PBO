@@ -9,7 +9,7 @@ Pengguna dapat menambahkan, melihat, mengubah, dan menghapus data reservasi meng
 - Pengguna dapat memasukkan data reservasi berupa:
 Nama pemesan
 
--Tanggal (dd-mm-yyyy)
+- Tanggal (dd-mm-yyyy)
 
 - Jam (contoh: 18:00)
 
