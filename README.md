@@ -6,30 +6,30 @@ Pengguna dapat menambahkan, melihat, mengubah, dan menghapus data reservasi meng
 **Fitur Utama**
 1.Tambah Reservasi
 
-Pengguna dapat memasukkan data reservasi berupa:
+- Pengguna dapat memasukkan data reservasi berupa:
 Nama pemesan
 
-Tanggal (dd-mm-yyyy)
+-Tanggal (dd-mm-yyyy)
 
-Jam (contoh: 18:00)
+- Jam (contoh: 18:00)
 
-Durasi pemakaian (dalam jam)
+- Durasi pemakaian (dalam jam)
 
 2.Lihat Reservasi
 
-Menampilkan seluruh data reservasi yang sudah tersimpan.
+- Menampilkan seluruh data reservasi yang sudah tersimpan.
 
 3.Ubah Reservasi
 
-Pengguna dapat mengubah data reservasi berdasarkan nomor urut yang ditampilkan, baik sebagian maupun seluruh data.
+- Pengguna dapat mengubah data reservasi berdasarkan nomor urut yang ditampilkan, baik sebagian maupun seluruh data.
 
 4.Hapus Reservasi
 
-Menghapus reservasi berdasarkan nomor urut pada daftar reservasi.
+- Menghapus reservasi berdasarkan nomor urut pada daftar reservasi.
 
 5.Keluar Program
 
-Menghentikan eksekusi program.
+- Menghentikan eksekusi program.
 
 
 
