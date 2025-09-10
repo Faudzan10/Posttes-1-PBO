@@ -163,5 +163,22 @@ Hasil Setelah Data Disimpan
 
 - Kalau nanti pilih menu Lihat Reservasi, data ini akan muncul di daftar.
 
+User memilih menu 2
+
+Lihat Reservasi 
+
+<img width="434" height="231" alt="image" src="https://github.com/user-attachments/assets/4f4d1a86-94fd-48b3-aa8a-17ec0d02b2fb" />
+
+- Data ditampilkan dengan perulangan for, yang mencetak:
+
+  - Nomor urut
+
+  - Nama pemesan
+
+  - Tanggal & waktu reservasi
+
+   -Durasi pemakaian
+
+
 
 
