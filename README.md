@@ -26,8 +26,13 @@ Menghentikan eksekusi program.
 
 
 **Penjelasan kode Program**
+
 Import Library
 
 <img width="352" height="52" alt="image" src="https://github.com/user-attachments/assets/15417eef-69e7-49c3-86f8-9d359655646d" />
+
+ArrayList → untuk menyimpan daftar reservasi (dinamis, bisa nambah/kurang data).
+
+Scanner → untuk membaca input dari user.
 
 
